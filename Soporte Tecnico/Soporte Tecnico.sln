@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{E9D2D14F-219B-42F2-B90E-7115AB1193D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{09458F27-3083-4EF4-98E5-2540432232CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{3EAA4BFC-E6B8-402B-9290-1FC173956C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D2D14F-219B-42F2-B90E-7115AB1193D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D2D14F-219B-42F2-B90E-7115AB1193D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D2D14F-219B-42F2-B90E-7115AB1193D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D2D14F-219B-42F2-B90E-7115AB1193D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09458F27-3083-4EF4-98E5-2540432232CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09458F27-3083-4EF4-98E5-2540432232CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09458F27-3083-4EF4-98E5-2540432232CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09458F27-3083-4EF4-98E5-2540432232CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAA4BFC-E6B8-402B-9290-1FC173956C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAA4BFC-E6B8-402B-9290-1FC173956C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAA4BFC-E6B8-402B-9290-1FC173956C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAA4BFC-E6B8-402B-9290-1FC173956C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B327E1D-B9F2-4EF6-85B8-FF0FDDDDF870}
+	EndGlobalSection
+EndGlobal
